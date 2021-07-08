@@ -5,7 +5,7 @@
 
 1. **Run** git clone https://github.com/okoliechykwuka/Jumia-Product-List.git
 2. pip install requirements.txt
-3. scrapy crawl **jumia** -o filename.csv
+3. `scrapy crawl **jumia** -o filename.csv`
 
 ## Product List
 1. image
