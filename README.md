@@ -22,3 +22,11 @@ This we scrape the product listed in the below categories
 11. category
 12. sub-category
 13. sub-su-category
+
+
+#### ScreenShot Scraped file
+<p align="center"> 
+  <kbd>
+    <a href="https://github.com/okoliechykwuka/Jumia-Product-List/" target="_blank"><img src="Screenshot 2021-07-08 at 08.44.46.png">
+  </a>
+  </kbd>
