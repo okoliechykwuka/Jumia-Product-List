@@ -1,4 +1,4 @@
-## Jumia Product List scraping using python
+## Scrape Jumia Product List using python
 
 
 ## How to Run this Proect.
