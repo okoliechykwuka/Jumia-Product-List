@@ -7,8 +7,7 @@
 2. pip install requirements.txt
 3. scrapy crawl **jumia** -o filename.csv
 
-This we scrape the product listed in the below categories
-
+## Product List
 1. image
 2. title
 3. price
